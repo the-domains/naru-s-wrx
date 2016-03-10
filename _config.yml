@@ -2,6 +2,7 @@ name: "Naru's WRX"
 favicon: null
 layout_spectrum: 0.761217069812119
 typography_spectrum: 0.8486846999730915
+title: WRX
 cta:
   domain: null
   bucket: null
