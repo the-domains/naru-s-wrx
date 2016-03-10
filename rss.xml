@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[WRX]]></title>
-        <description><![CDATA[WRX]]></description>
+        <title><![CDATA[Naru's WRX]]></title>
+        <description><![CDATA[Naru's WRX]]></description>
         <link>https://thegrid.ai/naru-s-wrx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 21:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 21:18:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/naru-s-wrx/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[test2]]></title>
+            <description><![CDATA[<article><h1>test2</h1><p>2nd Post Test</p></article>]]></description>
+            <link>https://thegrid.ai/naru-s-wrx/test2/index.html</link>
+            <guid isPermaLink="false">4a16cc81-9105-4b27-bf6f-9d103d81e8ed</guid>
+            <pubDate>Thu, 10 Mar 2016 21:17:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/482640f8-564c-4ee4-96aa-66c37820f2f1.jpg">]]></description>
