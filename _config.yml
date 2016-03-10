@@ -1,0 +1,28 @@
+name: "Naru's WRX"
+favicon: null
+layout_spectrum: 0.761217069812119
+typography_spectrum: 0.8486846999730915
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.11608975962735713
+  lightness: 0.5285099723841995
+  saturation: 0.3753215523902327
+  rhythmicContrast: 0.377662610495463
+purpose: []
