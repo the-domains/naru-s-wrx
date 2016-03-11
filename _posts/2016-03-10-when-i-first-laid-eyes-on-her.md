@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: When I first laid eyes on her thru some online advert back in the end of 2014.
-datePublished: '2016-03-10T21:06:14.480Z'
-dateModified: '2016-03-10T21:05:31.196Z'
+description: "2014 - December. When I first laid eyes on her thru some online advert. After going thru a couple of other options that was available then, I finally decided that she'd be the one in late January, 2015."
+datePublished: '2016-03-11T05:34:26.930Z'
+dateModified: '2016-03-10T21:16:18.438Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-10-when-i-first-laid-eyes-on-her.md
