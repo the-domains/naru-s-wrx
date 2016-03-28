@@ -1,18 +1,28 @@
-analytics: {}
+name: Naru
+favicon: null
+layout_spectrum: 0.24998
+typography_spectrum: 0.49137
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#C0C8C0'
-    - '#622330'
-    - '#5088A0'
-    - '#C05068'
-    - '#D0D098'
-  brandStrength: 1
+    - '#c5e6f7'
+    - '#a19d94'
+    - '#1a1e29'
+    - '#5474a5'
+    - '#9bc5c1'
+  brandStrength: 0.5
   lightness: 0.506114
+  saturation: 0.5
   rhythmicContrast: 0.61413
-  saturation: 0.700408
-cta: {}
-layout_spectrum: 0
-name: Naru
-opengraph: {}
 purpose: []
-typography_spectrum: 0.11558
