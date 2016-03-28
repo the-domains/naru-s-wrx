@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Naru]]></title>
         <description><![CDATA[Naru]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/naru-s-wrx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 12:36:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 07:07:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/naru-s-wrx/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/482640f8-564c-4ee4-96aa-66c37820f2f1.jpg">]]></description>
-            <link>undefined2014-december-when-i-first-laid-eyes-on-her-thru-some-onl/index.html</link>
+            <link>https://thegrid.ai/naru-s-wrx/2014-december-when-i-first-laid-eyes-on-her-thru-some-onl/index.html</link>
             <guid isPermaLink="false">aa0007aa-2707-4eb3-bf5c-960b9c87a3f5</guid>
-            <pubDate>Thu, 24 Mar 2016 12:36:36 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2016 07:07:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
